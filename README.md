@@ -26,4 +26,4 @@ Our main goal for this project is to optimize the Response Time, Service Quality
 
 # Flow Chart
 
-![Flowchart](https://drive.google.com/file/d/1v9JdeWjNG3HUZr9_ts69d2ONbu4-uOMB/view?usp=sharing)
+![Flowchart](https://github.com/jchois/Tax-Hippocampoi/blob/master/TAX%20HIPPOKAMPOI.jpg)
