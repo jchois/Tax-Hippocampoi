@@ -1,9 +1,8 @@
 # Tax-Hippocampoi
 
-# Tax Hippokampoi
 ## Project Definition
 
-## Introduction
+#### Introduction
 Tax Hippocampoi is a company dedicated to great service in the city of Barranquilla; As the mighty Poseidon who was always traveling the seven seas on a carriage pulled by Hippokapoies, we want every customer to feel like a god with our outstanding service.
 Current Situation
 Currently, the company has multiple taxi stations around the city of Barranquilla, each one in a strategic location to cover the whole city and provide fast and efficient service. Each Station is operated by a single person, who registers each Taxi when they arrive, and dispatches a Service when a Passenger arrives according to their needs and the Taxi number in line.
