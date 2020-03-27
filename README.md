@@ -25,3 +25,5 @@ Our main goal for this project is to optimize the Response Time, Service Quality
 - When the Taxi Wait Line only has 10 Taxis, a message should be returned saying: “Please request more Taxis to this location”
 
 # Flow Chart
+
+![Flowchart](https://drive.google.com/file/d/1v9JdeWjNG3HUZr9_ts69d2ONbu4-uOMB/view?usp=sharing)
