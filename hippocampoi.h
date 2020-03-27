@@ -16,6 +16,8 @@ typedef struct hipostation
 } station;
 
 /* PROTOTYPES */
+int main(void);
 void optionSelector(void);
+void slct(int);
 
 #endif
