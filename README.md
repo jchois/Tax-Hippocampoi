@@ -23,3 +23,5 @@ Our main goal for this project is to optimize the Response Time, Service Quality
 - When a new taxi arrives, it must be added to the waitlist
 - The Station Operator must know the remaining amount of taxis after each Service Assignation
 - When the Taxi Wait Line only has 10 Taxis, a message should be returned saying: “Please request more Taxis to this location”
+
+# Flow Chart
